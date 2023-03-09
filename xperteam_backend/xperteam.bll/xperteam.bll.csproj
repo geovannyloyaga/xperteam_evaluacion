@@ -1,0 +1,16 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net6.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\xperteam.dal\xperteam.dal.csproj" />
+    <ProjectReference Include="..\xperteam.dto\xperteam.dto.csproj" />
+    <ProjectReference Include="..\xperteam.model\xperteam.model.csproj" />
+    <ProjectReference Include="..\xperteam.utility\xperteam.utility.csproj" />
+  </ItemGroup>
+
+</Project>

@@ -1,0 +1,17 @@
+D:\XperteamPrueba\xperteam_backend\xperteam.utility\bin\Debug\net6.0\xperteam.utility.deps.json
+D:\XperteamPrueba\xperteam_backend\xperteam.utility\bin\Debug\net6.0\xperteam.utility.dll
+D:\XperteamPrueba\xperteam_backend\xperteam.utility\bin\Debug\net6.0\xperteam.utility.pdb
+D:\XperteamPrueba\xperteam_backend\xperteam.utility\obj\Debug\net6.0\xperteam.utility.csproj.AssemblyReference.cache
+D:\XperteamPrueba\xperteam_backend\xperteam.utility\obj\Debug\net6.0\xperteam.utility.GeneratedMSBuildEditorConfig.editorconfig
+D:\XperteamPrueba\xperteam_backend\xperteam.utility\obj\Debug\net6.0\xperteam.utility.AssemblyInfoInputs.cache
+D:\XperteamPrueba\xperteam_backend\xperteam.utility\obj\Debug\net6.0\xperteam.utility.AssemblyInfo.cs
+D:\XperteamPrueba\xperteam_backend\xperteam.utility\obj\Debug\net6.0\xperteam.utility.csproj.CoreCompileInputs.cache
+D:\XperteamPrueba\xperteam_backend\xperteam.utility\obj\Debug\net6.0\xperteam.utility.dll
+D:\XperteamPrueba\xperteam_backend\xperteam.utility\obj\Debug\net6.0\refint\xperteam.utility.dll
+D:\XperteamPrueba\xperteam_backend\xperteam.utility\obj\Debug\net6.0\xperteam.utility.pdb
+D:\XperteamPrueba\xperteam_backend\xperteam.utility\obj\Debug\net6.0\ref\xperteam.utility.dll
+D:\XperteamPrueba\xperteam_backend\xperteam.utility\bin\Debug\net6.0\xperteam.dto.dll
+D:\XperteamPrueba\xperteam_backend\xperteam.utility\bin\Debug\net6.0\xperteam.model.dll
+D:\XperteamPrueba\xperteam_backend\xperteam.utility\bin\Debug\net6.0\xperteam.dto.pdb
+D:\XperteamPrueba\xperteam_backend\xperteam.utility\bin\Debug\net6.0\xperteam.model.pdb
+D:\XperteamPrueba\xperteam_backend\xperteam.utility\obj\Debug\net6.0\xperteam.utility.csproj.CopyComplete
